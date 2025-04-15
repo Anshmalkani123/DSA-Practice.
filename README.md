@@ -19,4 +19,4 @@ I'm practicing and solving coding challenges to improve my problem-solving skill
 ## Usage:
 - Clone this repository to your local machine:
   ```bash
-  git clone https://github.com/your-username/dsa-practice.git
+  git clone https://github.com/Anshmalkani123/dsa-practice.git
